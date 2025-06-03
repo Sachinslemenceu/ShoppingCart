@@ -1,16 +1,24 @@
-# shoping_demo
+# 🛒 Flutter Shopping Cart App
 
-This project explains how to use provider state Management
+A simple and elegant shopping cart application built with **Flutter**, showcasing dynamic cart item management and total price calculation using **Provider** for state management.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- ✅ Add and remove items from cart
+- ✅ Real-time cart updates with total price calculation
+- ✅ State management with `provider` package
+- ✅ Responsive and clean UI design
+- ✅ Lightweight and beginner-friendly architecture
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+
+- **Flutter**
+- **Dart**
+- **Provider** (State Management)
+
+---
+
